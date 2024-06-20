@@ -1,3 +1,3 @@
 # OpenVPN
 
-![](/images/openvpn.png)
+![](/images/vpn.png)
